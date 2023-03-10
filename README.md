@@ -2,9 +2,9 @@
 
 Esse é um guia simples, o estudante pode e deve modificar para atender as necessidades do projeto. 
 
-**nome: (Seu nome)** 
-
-**Turma: (Sua Turma)**
+**nome: Victor Mendes** 
+**RM: 92843**
+**Turma: 2TDSA**
 
 **Ano: 2023**
 
